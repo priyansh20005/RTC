@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "ws": "^8.18.3",
     "wsl": "^1.0.0"
   }
 }
