@@ -18,3 +18,5 @@ server.on("connection" , (socket)=>{
 // socket.onmessage = (event)=>{
 //     console.log(event.data);
 // }
+
+console.log("websocket server running at ws://localhost:3000");
